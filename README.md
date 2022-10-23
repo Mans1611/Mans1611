@@ -2,7 +2,6 @@
 <h3 align="center">A Junior FullStack Web Developer Developer</h3>
 
 
-<p align="left"> <a href="https://twitter.com/mans_1611" target="blank"><img src="https://img.shields.io/twitter/follow/mans_1611?logo=twitter&style=for-the-badge" alt="mans_1611" /></a> </p>
 
 - 🔭 I’m currently working on **Expect (Football application)**
 
